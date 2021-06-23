@@ -1,5 +1,8 @@
 # PORTFOLIO WEBSITE
 
+![Portfolio Website](portfolio_website_gif.gif)
+
+#URL
 https://the-awesome-soundaryag-site.netlify.app/
 -----------------------------------------------------------------
 
